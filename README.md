@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritikasanwaria/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritikasanwaria/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/kritikasanwaria/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kritikasanwaria/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/kritikasanwaria/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kritikasanwaria/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/kritikasanwaria/DSA/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kritikasanwaria/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kritikasanwaria/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikasanwaria/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/kritikasanwaria/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
